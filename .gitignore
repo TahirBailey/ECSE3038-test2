@@ -1,0 +1,6 @@
+venv/
+api/venv/
+.env
+api/.env
+.pio/
+board/include/secrets.h
